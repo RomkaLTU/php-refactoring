@@ -6,7 +6,6 @@
 
 # PHPUnit
 /phpunit.xml
-/phpunit.xml.dist
 
 # PHPUnit coverage reports
 /coverage/
