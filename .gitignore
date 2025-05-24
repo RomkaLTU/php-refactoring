@@ -1,0 +1,42 @@
+# Composer dependencies
+/vendor/
+
+# Composer's generated files
+/composer.lock
+
+# PHPUnit
+/phpunit.xml
+/phpunit.xml.dist
+
+# PHPUnit coverage reports
+/coverage/
+
+# PHPStan cache
+/phpstan.cache
+
+# CodeSniffer reports
+/phpcs.xml
+/phpcs.xml.dist
+
+# IDE and OS files
+/.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files
+.env
+.env.*
+
+# Node/npm (if ever used)
+/node_modules/
+
+# Misc
+*.swp
+*.swo
+
+# PHPUnit result cache
+/.phpunit.result.cache
